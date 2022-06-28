@@ -1,2 +1,4 @@
 # IT-info
-This is for information about it service, project 
+This is simplifying the IT work using scripting
+
+
